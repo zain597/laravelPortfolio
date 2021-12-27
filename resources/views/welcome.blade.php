@@ -102,7 +102,6 @@
                 <div class="column left">
                     <div class="text">My creative skills & experiences.</div>
                     <p>I'm a professional web developer and hard worker . My moto is "Your talent determines what you can do. Your motivation determines how much you’re willing to do. Your attitude determines how well you do it." </p>
-                    <a href="#"> Read more</a>
                 </div>
                 <div class="column right">
                     <div class="bars">
