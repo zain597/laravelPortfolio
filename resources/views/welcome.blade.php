@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
+    <title>FiveMB's.</title>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <link rel="stylesheet" href="{{asset('assets/style.css')}}">
     <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
@@ -23,7 +23,7 @@
     </div>
     <nav class="navbar">
         <div class="max-width">
-            <div class="logo"><a href="#">Zain<span>Co.</span></a></div>
+            <div class="logo"><a href="#">FiveMB's<span></span></a></div>
             <ul class="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About</a></li>
