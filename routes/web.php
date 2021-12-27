@@ -26,6 +26,7 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::post('/message/save',[MessageController::class,'MessageSave'])->name('message.save');
 Route::get('/message/list', [MessageController::class, 'getMessage'])->name('message.list');
 Route::post('/message/delete', [MessageController::class, 'MessageDelete'])->name('message.delete');
+Route::get('/cv-download', [MessageController::class, 'cvDownload'])->name('cv.download.index');
 
 
 

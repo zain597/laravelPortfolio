@@ -44,7 +44,7 @@
                 <div class="text-1">Hello, my name is</div>
                 <div class="text-2">Zain Mehdi </div>
                 <div class="text-3">And I'm  <span class="typing"></span></div>
-                <a href="">Hire me</a>
+                <a href="http://wa.me/923310439025">Hire me</a>
             </div>
         </div>
     </section>
@@ -58,8 +58,8 @@
                 </div>
                 <div class="cloumn right">
                     <div class="text">I'm zain and I'm a full stack <span> Laravel developer</span></div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, doloremque sint! Reiciendis, neque asperiores nisi provident esse atque, placeat minus ex ea officia cum, sapiente praesentium ipsum laboriosam repellendus accusantium! Laborum, magnam. Autem quibusdam fugit tenetur tempora nobis facere illum, quae mollitia, esse quos molestiae aliquid dolores magnam deserunt nihil. Consectetur mollitia cupiditate maxime a, asperiores aut culpa expedita magnam.</p>
-                    <a href="">Download CV</a>
+                    <p>I'can build your idea into the world of web. I have a team of Graphic Designing, SEO experts & Social media marketing. Give a chance for your service and you will not regret.</p>
+                    <a href="{{route('cv.download.index')}}">Download CV</a>
                 </div>
             </div>
         </div>
@@ -73,21 +73,21 @@
                     <div class="box">
                         <i class="fa fa-paint-brush"></i>
                         <div class="text">Web Design</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, reiciendis culpa molestias amet dicta accusantium.</p>
+                        <p>A professional team of web designing is ready for attractive designs. Our clients are everything for us!</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <i class="fa fa-code"></i>
                         <div class="text">Web Development</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, reiciendis culpa molestias amet dicta accusantium.</p>
+                        <p>The challenging growth of technology can't push you back. We are ready for difficult and challenging tasks.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <i class="fa fa-handshake-o"></i>
                         <div class="text">Other Service</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, reiciendis culpa molestias amet dicta accusantium.</p>
+                        <p>Social media marketing and SEO work is now compulsory for world of internet. Google Analytics can help your marketing strategy.</p>
                     </div>
                 </div>
                 
@@ -101,7 +101,7 @@
             <div class="skills-content">
                 <div class="column left">
                     <div class="text">My creative skills & experiences.</div>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo alias corrupti reprehenderit deserunt ratione veniam in voluptates iure ullam illo distinctio eum qui accusamus enim, officia unde doloribus odit rem natus minima nulla nihil atque dolorem! Nihil nisi itaque quaerat?</p>
+                    <p>I'm a professional web developer and  hard worker person. My moto is "Your talent determines what you can do. Your motivation determines how much you’re willing to do. Your attitude determines how well you do it." </p>
                     <a href="#"> Read more</a>
                 </div>
                 <div class="column right">
@@ -180,7 +180,7 @@
             <div class="contact-content">
                 <div class="column left">
                     <div class="text">Get in touch</div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero assumenda odit amet animi reiciendis ipsa voluptates consequuntur facere fugit ducimus.</p>
+                    <p>Contact us via Email or Whatsapp. Forgive me If I responsed late!</p>
                     <div class="icons">
                         <div class="row">
                             <i class="fa fa-user"></i>

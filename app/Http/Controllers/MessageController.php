@@ -51,4 +51,12 @@ class MessageController extends Controller
 
         }
     }
+    public function cvDownload()
+    {
+        $filePath = public_path("cvZain.pdf");
+    	$headers = ['Content-Type: application/pdf'];
+    	$fileName = 'zain'.time().'.pdf';
+
+    	return response()->download($filePath, $fileName, $headers);
+    }
 }
