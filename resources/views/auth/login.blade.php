@@ -13,11 +13,12 @@
 <body>
   <div class="main">
     <p class="sign" align="center">Portfolio</p>
-    <form method="POST" action="{{ route('login') }}" class="form1">
+    <form method="post" action="{{ route('login') }}" class="form1">
         @csrf
       <input class="un" name="email" id="email" type="email" align="center" placeholder="Email" required autofocus>
       <input class="pass" type="password" name="password" align="center" placeholder="Password" required>
-      <a type="submit" class="submit" align="center">Sign in</a>
+      <button type="submit" class="submit" align="center">Sign In</button>
+      {{-- <a type="submit" class="submit" align="center">Sign in</a> --}}
             
                 
     </div>
