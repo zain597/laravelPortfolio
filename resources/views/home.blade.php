@@ -16,7 +16,7 @@
     @php
         $msg = App\Models\Message::latest()->get()
     @endphp
-    <h1 style="border-radius: 5px">Total messages: {{count($msg)}}</h1>
+    <h1 style="border-radius: 5px;">Total messages: <span style="color:crimson;">{{count($msg)}}</span></h1>
     <div class="container" style="justify-content: between;text-align:center;padding:10px">
         <section class="content">
             <div class="row">

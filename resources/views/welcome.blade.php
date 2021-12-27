@@ -107,35 +107,36 @@
                     <div class="bars">
                         <div class="info">
                             <span>HTML</span>
-                            <span>90%</span>
                         </div>
                         <div class="line html"></div>
                     </div>
                     <div class="bars">
                         <div class="info">
                             <span>CSS</span>
-                            <span>60%</span>
                         </div>
                         <div class="line css"></div>
                     </div>
                     <div class="bars">
                         <div class="info">
                             <span>JavaScript</span>
-                            <span>60%</span>
                         </div>
                         <div class="line js"></div>
                     </div>
                     <div class="bars">
                         <div class="info">
                             <span>Laravel(PHP)</span>
-                            <span>70%</span>
                         </div>
                         <div class="line lara"></div>
                     </div>
                     <div class="bars">
                         <div class="info">
+                            <span>Vue.js</span>
+                        </div>
+                        <div class="line mysql"></div>
+                    </div>
+                    <div class="bars">
+                        <div class="info">
                             <span>MySQL/PgSQL</span>
-                            <span>70%</span>
                         </div>
                         <div class="line mysql"></div>
                     </div>
