@@ -180,7 +180,7 @@
             <div class="contact-content">
                 <div class="column left">
                     <div class="text">Get in touch</div>
-                    <p>Contact us via Email, Whatsapp or directly through this application. Forgive me If I responsed late!</p>
+                    <p>Contact us via Email, Whatsapp or directly through this application. Forgive me If I responed late!</p>
                     <div class="icons">
                         <div class="row">
                             <i class="fa fa-user"></i>
