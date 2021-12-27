@@ -96,6 +96,7 @@ html{
 .home{
     display: flex;
     background: url("images/zainoverlay7.png") no-repeat center;
+    background-size: cover;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -645,6 +646,7 @@ footer span strong:hover{
 }
 @media (max-width: 500px){
 
+    
     .home .home-content .text-2
     {
         font-size: 50px; 
