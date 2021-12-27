@@ -58,7 +58,7 @@
                 </div>
                 <div class="cloumn right">
                     <div class="text">I'm zain and I'm a full stack <span> Laravel developer</span></div>
-                    <p>I'can build your idea into the world of web. I have a team of Graphic Designing, SEO experts & Social media marketing. Give a chance for your service and you will not regret.</p>
+                    <p>I can build your idea into the world of web. I have a team of Graphic Designing, SEO experts & Social media marketing. Give a chance for your service and you will not regret.</p>
                     <a href="{{route('cv.download.index')}}">Download CV</a>
                 </div>
             </div>
