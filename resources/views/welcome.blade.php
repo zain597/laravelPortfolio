@@ -24,13 +24,13 @@
     <nav class="navbar">
         <div class="max-width">
             <div class="logo"><a href="#">Five<span>MB's</span></a></div>
-            <ul class="menu" id="bs-example-navbar-collapse-1">
-                <li><a href="#home" onclick="closeFunction()" data-toggle="collapse">Home</a></li>
-                <li><a href="#about" onclick="closeFunction()" data-toggle="collapse">About</a></li>
-                <li><a href="#services" onclick="closeFunction()" data-toggle="collapse">Services</a></li>
-                <li><a href="#skills" onclick="closeFunction()" data-toggle="collapse">Skills</a></li>
-                <li><a href="#teams" onclick="closeFunction()" data-toggle="collapse">Teams</a></li>
-                <li><a href="#contact" onclick="closeFunction()" data-toggle="collapse">Contact</a></li>
+            <ul class="menu" >
+                <li><a href="#home" >Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#teams">Teams</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
             <div class="menu-btn">
                 <i class="fa fa-bars"></i>
@@ -256,12 +256,6 @@
         @endif
     </script>
     
-    <script>
-    function closeFunction()
-    { 
-        document.getElementById('bs-example-navbar-collapse-1').style.display='none';
-    }
-    </script>
     <script src="{{asset('assets/script.js')}}"></script>
 </body>
 </html>
