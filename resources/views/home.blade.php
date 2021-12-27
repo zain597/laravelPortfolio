@@ -13,6 +13,10 @@
     <link href="//cdn.datatables.net/responsive/2.2.3/css/responsive.dataTables.min.css" rel="stylesheet">
 </head>
 <body>
+    @php
+        $msg = App\Models\Message::latest()->get()
+    @endphp
+    <h1 style="border-radius: 5px">Total messages: {{count($msg)}}</h1>
     <div class="container" style="justify-content: between;text-align:center;padding:10px">
         <section class="content">
             <div class="row">
