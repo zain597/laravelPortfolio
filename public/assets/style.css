@@ -619,16 +619,13 @@ footer span strong:hover{
         width: 100%;
         margin-bottom: 35px;
     }
-    /* .contact .contact-content .left{
-        width: 100%;
-    }
-    .contact .contact-content .right{
-        width: 100%;
-    } */
 }
 @media (max-width: 690px){
     .max-width{
         padding: 0 23px;
+    }
+    .home{
+        background-position: left top, -550px 50px;
     }
     .home .home-content .text-2{
         font-size: 60px; 
