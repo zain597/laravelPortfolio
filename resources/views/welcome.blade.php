@@ -80,7 +80,7 @@
                     <div class="box">
                         <i class="fa fa-code"></i>
                         <div class="text">Web Development</div>
-                        <p>The challenging growth of technology can't push you back. We are ready for difficult and challenging tasks.</p>
+                        <p>The challenging growth of technology does't push you back. We are ready for difficult and challenging tasks.</p>
                     </div>
                 </div>
                 <div class="card">
